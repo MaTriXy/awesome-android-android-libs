@@ -1,13 +1,13 @@
 
 #### <a name="Material" id="Material"></a>Material
+1. **material-design-dimens**  Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.        
+[https://github.com/DmitryMalkovich/material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens)
 1. **MaterialDesignLibrary**  This is a library with components of Android L to you use in android 4.0    
 [https://github.com/navasmdc/MaterialDesignLibrary#flat-button](https://github.com/navasmdc/MaterialDesignLibrary#flat-button)
 1. **Carbon** Material Design implementation for Android 2.1+. Realtime shadows, ripples, animations, SVGs and more.    
 [https://github.com/ZieIony/Carbon](https://github.com/ZieIony/Carbon)
 1. **MaterialEverywhere**  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.    
 [https://github.com/antoniolg/MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)
-1. **MaterialWidget** Android L design widget in Android 4.0 ~ 4.4.    
-[https://github.com/keithellis/MaterialWidget](https://github.com/keithellis/MaterialWidget)
 1. **MaterialTabs** Custom Tabs with Material Design effects. It requires 14+ API and android support v7 (Toolbar)    
 [https://github.com/neokree/MaterialTabs](https://github.com/neokree/MaterialTabs)
 1. **material-ripple**    Android L Ripple effect wrapper for Views    
@@ -18,7 +18,7 @@
 [https://github.com/ikimuhendis/LDrawer](https://github.com/ikimuhendis/LDrawer)
 1. **material-design-icons** Material Design icons by Google    
 [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
-1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar.    
+1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar. PROJECT IS NOT SUPPORTED!   
 [https://github.com/tekinarslan/AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar)
 1. **MaterialEditText**  EditText in Material Design    
 [https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
@@ -68,7 +68,10 @@
 [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 1. **uberprogressview** An android progress view developed after taking inspiration from Uber app.    
 [https://github.com/ishan1604/uberprogressview](https://github.com/ishan1604/uberprogressview)
-
+1. **MaterialRatingBar**  Material Design RatingBar with better appearance.         
+[https://github.com/DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
+1. **youtube-play-icon** Material styled morphing play/pause drawable.         
+[https://github.com/alxrm/youtube-play-icon](https://github.com/alxrm/youtube-play-icon)
 
 #### <a name="UI" id="UI"></a>UI
 1. **android-ui**   Android UI library.  Requires API level 14+    
@@ -83,9 +86,12 @@
 [https://github.com/Narfss/ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere)
 1. **ShowcaseView**  Highlight the best bits of your app to users quickly, simply, and cool...ly    
 [https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
-
+1. **Spotlight**  Android Library that lights items for tutorials or walk-throughs etc...
+[https://github.com/TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight)
 
 #### <a name="TextView/EditText" id="TextView/EditText"></a>TextView/EditText
+1. **html-textview**  TextView to display simple HTML content     
+[https://github.com/SufficientlySecure/html-textview](https://github.com/SufficientlySecure/html-textview)
 1. **SlantedTextView** Android slanted TextView .     一个倾斜的TextView,适用于标签效果。             
 [https://github.com/HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
 1. **ReadMoreTextView**  A Custom TextView with trim text         
@@ -111,6 +117,8 @@
 [https://github.com/rockerhieu/emojicon](https://github.com/rockerhieu/emojicon)
 1. **android-autofittextview**  A TextView that automatically resizes text to fit perfectly within its bounds.    
 [https://github.com/grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)
+1. **AutoFitTextView** A TextView that automatically fit its font and line count based on its available size and content       
+[https://github.com/AndroidDeveloperLB/AutoFitTextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)
 1. **Android-RobotoTextView**   Implementation of a TextView and all its direct/indirect subclasses with native support for the Roboto fonts, includes the brand new Roboto Slab fonts.    
 [https://github.com/johnkil/Android-RobotoTextView](https://github.com/johnkil/Android-RobotoTextView)
 1. **SizeAdjustingTextView** This is based on an open source autosizing textview for Android.    
@@ -191,8 +199,37 @@
 [https://github.com/aritraroy/KerningViews](https://github.com/aritraroy/KerningViews)
 1. **SectionedRecyclerViewAdapter**  An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers. Each Section can have its state(Loading/Loaded/Failed) controlled individually.          
 [https://github.com/luizgrp/SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
+1. **android-ago**  An Android TextView that always displays an auto refreshing relative time span with respect to a reference time                       
+[https://github.com/curioustechizen/android-ago](https://github.com/curioustechizen/android-ago)
+1. **SuperTextView** a super textview for android           
+[https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
+1. **input-mask-android** The library allows to format user input on the fly according to the provided mask and to extract valueable characters.          
+[https://github.com/RedMadRobot/input-mask-android](https://github.com/RedMadRobot/input-mask-android)
+1. **NumberAnimTextView** 数字增加动画的 TextView        
+[https://github.com/Bakumon/NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)
+1. **PinchZoomTextView** A TextView library that allows the user to increase/decrease font size with a two finger gesture by the user.    
+[https://github.com/androidessence/PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView)
+1. **html-builder** Build valid HTML for Android TextView             
+[https://github.com/jrummyapps/html-builder](https://github.com/jrummyapps/html-builder)
+1. **AvatarLabelView** 一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。     
+[https://github.com/yanbober/AvatarLabelView](https://github.com/yanbober/AvatarLabelView)
+1. **LogcatTextView** A simple view to see logcat in your app                     
+[https://github.com/munix/LogcatTextView](https://github.com/munix/LogcatTextView)
+1. **MarqueeViewLibrary** 一个帮您快速实现跑马灯效果的library            
+[https://github.com/gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary)
+1. **FadingTextView**  A textview that changes its content automatically every few seconds     
+[https://github.com/rosenpin/FadingTextView](https://github.com/rosenpin/FadingTextView)
+1. **WaitingDots**  Small library that provides... bouncing dots      
+[https://github.com/tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)
+1. **CodeView**  Android Code Highlighter     
+[https://github.com/tiagohm/CodeView](https://github.com/tiagohm/CodeView)
+1. **SlantedTextView**  Android slanted TextView    
+[https://github.com/HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
+
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
+1. **FrescoImageViewer**  Android full screen image viewer for Fresco library supporting "pinch to zoom" and "swipe to dismiss" gestures http://stfalcon.com                 
+[https://github.com/stfalcon-studio/FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)
 1. **AndroidGradientImageView**  AndroidGradientImageView is a simple imageview which overlays gradient on its content.           
 [https://github.com/skyfe79/AndroidGradientImageView](https://github.com/skyfe79/AndroidGradientImageView)
 1. **subsampling-scale-image-view**  Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.                  
@@ -265,7 +302,18 @@
 [https://github.com/lawloretienne/ImageGallery](https://github.com/lawloretienne/ImageGallery)
 1. **GestureViews**  ImageView and FrameLayout with gestures control and position animation.    
 [https://github.com/alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews)
-
+1. **MusicCoverView** ImageView that 'morphs' into a circle shape and can rotates. Useful to be used as album cover in Music apps.    
+[https://github.com/andremion/Music-Cover-View](https://github.com/andremion/Music-Cover-View)
+1. **BigImageViewer**  Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso.            
+[https://github.com/Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer)
+1. **Crescento** Android library that adds a curve at the below of image views and relative layouts. CrescentoImageView and CrescentoContainer are the image view and relative layout respectively. You can change the radius of curve with attribute:curvature.       
+[https://github.com/developer-shivam/Crescento](https://github.com/developer-shivam/Crescento)
+1. **CaptchaImageView**  Custom ImageView to generate captcha image.     
+[https://github.com/jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)
+1. **DragPhotoView**  A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView              
+[https://github.com/githubwing/DragPhotoView](https://github.com/githubwing/DragPhotoView)
+1. **ViewEffects** Apply custom effects on view backgrounds        
+[https://github.com/mirrajabi/ViewEffects](https://github.com/mirrajabi/ViewEffects)
 
 
 
@@ -310,6 +358,14 @@
 [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
 1. **ShineButton** This is a UI lib for Android. Effects like shining.     
 [https://github.com/ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
+1. **RaiflatButton** A raised button that lowers down to 0dp of elevation     
+[https://github.com/rubensousa/RaiflatButton](https://github.com/rubensousa/RaiflatButton)
+1. **AnimShopButton** A shopping cart button with a telescopic displacement rotation animation ...一个带伸缩位移旋转动画的购物车按钮          
+[https://github.com/mcxtzhang/AnimShopButton](https://github.com/mcxtzhang/AnimShopButton)
+1. **Android-SwitchIcon** Google launcher-style implementation of switch (enable/disable) icon        
+[https://github.com/zagum/Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+1. **iOS-SwitchView** A lightweight iOS switch view style for Android
+[https://github.com/luongvo/iOS-SwitchView](https://github.com/luongvo/iOS-SwitchView)
 
 
 #### <a name="CheckBox" id="CheckBox"></a>CheckBox
@@ -319,6 +375,18 @@
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **AwesomeProgressbar**   支持左右两边同时滚动的进度条       
+[https://github.com/alex5241/AwesomeProgressbar](https://github.com/alex5241/AwesomeProgressbar)
+1. **BounceLoadingView**   模仿饿了么加载效果       
+[https://github.com/niniloveyou/BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)
+1. **GradeProgressView**   a progress view used to grade mobiles phone       
+[https://github.com/niniloveyou/GradeProgressView](https://github.com/niniloveyou/GradeProgressView)
+1. **SmileyLoadingView** A custom loading view, just like alipay             
+[https://github.com/andyxialm/SmileyLoadingView](https://github.com/andyxialm/SmileyLoadingView)
+1. **RingProgress**   a circle progress bar with effect       
+[https://github.com/ldoublem/RingProgress](https://github.com/ldoublem/RingProgress)
+1. **SlackLoadingView** Imitate Slack loading animation.           
+[https://github.com/JeasonWong/SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView)
 1. **LoadingView**  a simple lodingview for android with animation           
 [https://github.com/ldoublem/LoadingView](https://github.com/ldoublem/LoadingView)
 1. **BezierLoadingView**  A cool loading view with Bezier and a smooth circular motion
@@ -327,6 +395,8 @@
 [https://github.com/dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar)
 1. **ArcProgressStackView**  Present your progress bars in arc mode with information and total control.    
 [https://github.com/GIGAMOLE/ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView)
+1. **ArcProgressStackView** Present your progress bars in arc mode with information and total control.           
+[https://github.com/DevLight-Mobile-Agency/ArcProgressStackView](https://github.com/DevLight-Mobile-Agency/ArcProgressStackView)
 1. **KProgressHUD** An implement of ProgressHUD for Android, similar to MBProgressHUD, SVProgressHUD for iOS.    
 [https://github.com/Kaopiz/KProgressHUD](https://github.com/Kaopiz/KProgressHUD)
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar    
@@ -408,12 +478,23 @@ And this project is not using the image file!
 [https://github.com/Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
 1. **LoadingDrawable**  some android loading drawable, can be combined with any View as the loading View and Progressbar, and is especially suitable for the loading animation of the RecyclerRefreshLayout.         
 [https://github.com/dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
-
-
-
+1. **LikeSinaSportProgress**  仿新浪体育客户端的进度条        
+[https://github.com/YangShaoXiong/LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress)
+1. **SquareLoading**   A square animated loader.        
+[https://github.com/yuweiguocn/SquareLoading](https://github.com/yuweiguocn/SquareLoading)
+1. **StateProgressBar**  Android library to realize the various states and transitions in a ProgressBar.         
+[https://github.com/kofigyan/StateProgressBar](https://github.com/kofigyan/StateProgressBar)
+1. **GALeafLoading** The project implements the following animation          
+[https://github.com/Ajian-studio/GALeafLoading](https://github.com/Ajian-studio/GALeafLoading)
+1. **GADownloading**  GADownloading      
+[https://github.com/Ajian-studio/GADownloading](https://github.com/Ajian-studio/GADownloading)
+1. **GABottleLoading**   Bezier storm（贝塞尔风暴）                                      
+[https://github.com/Ajian-studio/GABottleLoading](https://github.com/Ajian-studio/GABottleLoading)
 
 
 #### <a name="Menu" id="Menu"></a>Menu
+1. **Space-Navigation-View**  Space Navigation is a library allowing easily integrate fully customizable Google Spaces like navigation to your app.                      
+[https://github.com/armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
 1. **LuseenBottomNavigation**  BottomNavigationView    Designed according Google guideLine
 [https://github.com/armcha/LuseenBottomNavigation](https://github.com/armcha/LuseenBottomNavigation)
 1. **Material-BottomNavigation**  BottomNavigation component inspired by the Google Material Design Guidelines
@@ -486,8 +567,14 @@ And this project is not using the image file!
 [https://github.com/melvinjlobo/MetaballMenu](https://github.com/melvinjlobo/MetaballMenu)
 1. **TapBarMenu**  Simple library that helps creating a "Tap Bar" menu layout.    
 [https://github.com/michaldrabik/TapBarMenu](https://github.com/michaldrabik/TapBarMenu)
-
-
+1. **FloatingNavigationView** A Floating Action Button that shows an anchored Navigation View.    
+[https://github.com/andremion/Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View)
+1. **FantasySlide** 一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互。一次手势完成滑出侧边栏与选择菜单。         
+[https://github.com/mzule/FantasySlide](https://github.com/mzule/FantasySlide)
+1. **FragNav**  An Android library for managing multiple stacks of fragments     
+[https://github.com/ncapdevi/FragNav](https://github.com/ncapdevi/FragNav)
+1. **hover**  A floating menu library for Android.     
+[https://github.com/google/hover](https://github.com/google/hover)
 
 
 #### <a name="Dialog" id="Dialog"></a>Dialog
@@ -513,6 +600,8 @@ And this project is not using the image file!
 [https://github.com/orhanobut/dialogplus](https://github.com/orhanobut/dialogplus)
 1. **spots-dialog**  Android AlertDialog with mowing dots progress indicator    
 [https://github.com/d-max/spots-dialog](https://github.com/d-max/spots-dialog)
+1. **search-dialog**  An awesome and customizable search dialog with built-in search options.       
+[https://github.com/mirrajabi/search-dialog](https://github.com/mirrajabi/search-dialog)
 
 
 
@@ -600,7 +689,8 @@ And this project is not using the image file!
 [https://github.com/pchauhan/FilterSelectorListView](https://github.com/pchauhan/FilterSelectorListView)
 1. **Animated Expanding ListView**   Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.    
 [https://github.com/LeonardoCardoso/Animated-Expanding-ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView)
-
+1. **FanLayoutManager**  Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades https://www.cleveroad.com           
+[https://github.com/Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 
 
 
@@ -639,6 +729,14 @@ And this project is not using the image file!
 
 
 #### <a name="Recyclerview" id="Recyclerview"></a>Recyclerview
+1. **ChipsLayoutManager** ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features          
+[https://github.com/BelooS/ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)
+1. **RecyclerTabLayout**  An efficient TabLayout library implemented with RecyclerView.         
+[https://github.com/nshmura/RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout)
+1. **PullZoomRecyclerView**   A pull to zoom-in RecyclerView for android        
+[https://github.com/dinuscxj/PullZoomRecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
+1. **BeautifulParallax** Beautify your RecyclerViews with a great parallax effect !           
+[https://github.com/florent37/BeautifulParallax](https://github.com/florent37/BeautifulParallax)
 1. **sectioned-recyclerview**   Implement a multi-sectioned RecyclerView using a custom adapter interface. http://aidanfollestad.com        [https://github.com/afollestad/sectioned-recyclerview](https://github.com/afollestad/sectioned-recyclerview)
 1. **SuperSLiM**  A layout manager for the RecyclerView with interchangeable linear, grid, and staggered displays of views, all with configurable section headers including the sticky variety as specified in the material design docs. http://tonicartos.com        
 [https://github.com/TonicArtos/SuperSLiM](https://github.com/TonicArtos/SuperSLiM)
@@ -684,9 +782,12 @@ And this project is not using the image file!
 [https://github.com/simplify20/PowerfulRecyclerViewAdapter](https://github.com/simplify20/PowerfulRecyclerViewAdapter)
 1. **RecyclerViewEnhanced**  Android Library to provide swipe, click and other functionality to RecyclerView.    
 [https://github.com/nikhilpanju/RecyclerViewEnhanced/](https://github.com/nikhilpanju/RecyclerViewEnhanced/)
-
-
-
+1. **CircleRecyclerView** the library is a loop RecyclerView, can show some effects when display       
+[https://github.com/kHRYSTAL/CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView)
+1. **epoxy** Epoxy is an Android library for building complex screens in a RecyclerView.    
+[https://github.com/airbnb/epoxy](https://github.com/airbnb/epoxy)
+1. **ShimmerRecyclerView** A custom recycler view with shimmer views to indicate that views are loading.       
+[https://github.com/sharish/ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
 
 
 #### <a name="SearchView" id="SearchView"></a>SearchView
@@ -694,6 +795,8 @@ And this project is not using the image file!
 [https://github.com/MiguelCatalan/MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 
 #### <a name="ViewPager" id="ViewPager"></a>ViewPager
+1. **ViewPagerCards**  ViewPager cards inspired by Duolingo          
+[https://github.com/rubensousa/ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
 1. **WoWoViewPager** Optimized for scrolling app intros or making your CV app. Free and open source.             
 [https://github.com/Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
 1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.    
@@ -734,6 +837,8 @@ And this project is not using the image file!
 [https://github.com/Telenav/ExpandablePager](https://github.com/Telenav/ExpandablePager)
 1. **ParallaxViewPager**  ViewPager页面切换视差效果    
 [https://github.com/ybq/ParallaxViewPager](https://github.com/ybq/ParallaxViewPager)
+1. **BubbleTab**  Put some bubble in your tabs and give your apps a supa fresh style !             
+[https://github.com/florent37/BubbleTab](https://github.com/florent37/BubbleTab)
 
 
 
@@ -768,6 +873,8 @@ And this project is not using the image file!
 
 
 #### <a name="Activity" id="Activity"></a>Activity
+1. **ActivityStarter** Android Library that provide simpler way to start the Activities with multiple arguments.  
+[https://github.com/MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter)
 1. **CustomActivityOnCrash** Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.    
 [https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash)
 1. **android-slidingactivity**      Android library which allows you to swipe down from an activity to close it.    
@@ -776,6 +883,8 @@ And this project is not using the image file!
 [https://github.com/ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash)
 1. **EasyIntro** The flexible, easy to use, all in one app intro library for your Android project.    
 [https://github.com/meNESS/EasyIntro](https://github.com/meNESS/EasyIntro)
+1. **TGOCMessagesActivity** Flexible chat activity for Android.    
+[https://github.com/two-guys-one-code/TGOCMessagesActivity](https://github.com/two-guys-one-code/TGOCMessagesActivity)
 
 
 #### <a name="Tabs" id="Tabs"></a>Tabs
@@ -803,8 +912,10 @@ And this project is not using the image file!
 1. **loadtoast**  Pretty material design toasts with feedback animations    
 [https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
 1. **pretty-toast**  This is quite simple toast library, that make it easier to show and create custom toast. Library provides Builder which can be used to create flexible custom Toast messages.
-         
+
 [https://github.com/CROSP/pretty-toast](https://github.com/CROSP/pretty-toast)
+1. **TastyToast**   Make your native android toast look beautiful.              
+[https://github.com/yadav-rahul/TastyToast](https://github.com/yadav-rahul/TastyToast)
 
 
 #### <a name="LockView" id="LockView"></a>LockView
@@ -812,6 +923,10 @@ And this project is not using the image file!
 [https://github.com/AmniX/MaterialPatternllockView](https://github.com/AmniX/MaterialPatternllockView)
 1.  **PinLockView**   A clean, minimalistic, easy-to-use and highly customizable pin lock custom view for Android
 [https://github.com/aritraroy/PinLockView](https://github.com/aritraroy/PinLockView)
+1.  **PinCodeView** A custom view with keyboard and character display to be used for authentication
+[https://github.com/Arjun-sna/android-passcodeview](https://github.com/Arjun-sna/android-passcodeview)
+1. **PatternLockView**   An easy-to-use, customizable, Material Design complaint Pattern Lock view for Android
+[https://github.com/aritraroy/PatternLockView](https://github.com/aritraroy/PatternLockView)
 
 
 
@@ -839,9 +954,23 @@ And this project is not using the image file!
 [https://github.com/ahmedrizwan/SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat)
 1. **HorizontalWheelView**  Custom view for user input that models horizontal wheel controller.       
 [https://github.com/shchurov/HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
+1. **BubbleSeekBar** 自定义SeekBar，进度变化由可视化气泡样式呈现      
+[https://github.com/woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
+
+
+
+
+#### <a name="PopupWindow" id="PopupWindow"></a>PopupWindow
+1. **RelativePopupWindow**  Android PopupWindow that can be easily located relative to anchor View.              
+[https://github.com/kakajika/RelativePopupWindow](https://github.com/kakajika/RelativePopupWindow)
+
+
+
 
 
 #### <a name="Time_View" id="Time_View"></a>Time View
+1. **Timecon**  Easy-to-use animated clock icon        
+[https://github.com/alxrm/Timecon](https://github.com/alxrm/Timecon)
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
 [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.    
@@ -878,15 +1007,28 @@ And this project is not using the image file!
 [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
 1. **material-calendar-view** A calendar with pretty Material look, that runs on Android API 8+
 [https://github.com/JonatanSalas/material-calendar-view](https://github.com/JonatanSalas/material-calendar-view)
+1. **FlatTimeCollection**  Amazing Dynamic Time UI :clock1030: :hourglass: and More        
+[https://github.com/anastr/FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)
+1. **SublimePicker**    A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.         
+[https://github.com/vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker)
+1. **LightCalendarView** A lightweight monthly calendar view for Android, fully written in Kotlin. Designed to meet the minimum demands for typical calendars.    
+[https://github.com/recruit-mp/LightCalendarView](https://github.com/recruit-mp/LightCalendarView)
+1. **DateTimeRangePicker** A date time range picker for android written in Kotlin              
+[https://github.com/skedgo/DateTimeRangePicker](https://github.com/skedgo/DateTimeRangePicker)
+
 
 
 #### <a name="Layout" id="Layout"></a>Layout
+1. **ThreeDLayout**  A 3D Layout,When you use it warp other view,it can became a 3D view        
+[https://github.com/githubwing/ThreeDLayout](https://github.com/githubwing/ThreeDLayout)
+1. **CompoundLayout**  It's an Android library that allows you to use Layout as RadioButton or CheckBox.             
+[https://github.com/Jaouan/CompoundLayout](https://github.com/Jaouan/CompoundLayout)
+1. **RecyclerRefreshLayout**  A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout. support all the views, highly customizable, code simplicity, etc             
+[https://github.com/dinuscxj/RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)
 1. **MaterialLeanBack** A beautiful leanback port for Smartphones and Tablets      
 [https://github.com/florent37/MaterialLeanBack](https://github.com/florent37/MaterialLeanBack)
 1. **HoldToLoadLayout**  HoldToLoadLayout is a view group that can contain a single child. It draws your child to middle of layout, and performs loading wheel around it with settings you determined.
-       
 [https://github.com/melihaksoy/HoldToLoadLayout](https://github.com/melihaksoy/HoldToLoadLayout)       
-
 1. **flexbox-layout**  Flexbox for Android              
 [https://github.com/google/flexbox-layout](https://github.com/google/flexbox-layout)
 1. **CursorWheelLayout**  An Android Widget for selecting items that rotate on a wheel.           
@@ -993,6 +1135,16 @@ And this project is not using the image file!
 [https://github.com/Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android)
 1. **BubbleLayout**  Bubble View for Android.    
 [https://github.com/MasayukiSuda/BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout)
+1. **BubbleAnimationLayout** You don’t want your apps look and feel boring, do you? Add some bubbles! https://www.cleveroad.com           
+[https://github.com/Cleveroad/BubbleAnimationLayout](https://github.com/Cleveroad/BubbleAnimationLayout)
+1. **BufferTextInputLayout**  A simple customised version of the TextInputLayout from the Android Design Support Library           
+[https://github.com/bufferapp/BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
+1. **ParticleDismissLayout** Effect of particle Boom.  视图碎裂效果      
+[https://github.com/zhangke3016/ParticleDismissLayout](https://github.com/zhangke3016/ParticleDismissLayout)
+1. **Vorolay** VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions.    
+[https://github.com/Quatja/Vorolay](https://github.com/Quatja/Vorolay)
+1. ****  Android Activity 滑动返回     
+[https://github.com/bingoogolapple/BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 
 
 #### <a name="Toolbar" id="Toolbar"></a>Toolbar
@@ -1017,6 +1169,8 @@ And this project is not using the image file!
 [https://github.com/airbnb/AirMapView](https://github.com/airbnb/AirMapView)
 2. **Google Maps Android API utility library** This open-source library contains classes that are useful for a wide range of applications using the Google Maps Android API.    
 [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
+3. **MapScaleView** Scale bar for Google Maps Android API.    
+[https://github.com/pengrad/MapScaleView](https://github.com/pengrad/MapScaleView)
 
 
 #### <a name="Choreographer" id="Choreographer"></a>Choreographer
@@ -1053,9 +1207,26 @@ And this project is not using the image file!
 #### <a name="WebView" id="WebView"></a>WebView
 1. **safe-java-js-webview-bridge** 为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案 http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/               
 [https://github.com/pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
+1. **Android-AdvancedWebView** Enhanced WebView component for Android that works as intended out of the box      
+[https://github.com/delight-im/Android-AdvancedWebView](https://github.com/delight-im/Android-AdvancedWebView)
 
+#### <a name="WebView" id="WebView"></a>Notification
+1. **Carousel-Notification**  Carousel-Notification lets you make carousel type notification where user can navigate within the notification
+[https://github.com/shaileshmamgain5/Carousel-Notification](https://github.com/shaileshmamgain5/Carousel-Notification)
 
 #### <a name="Other" id="Other"></a>Other
+1. **TagViewGroup** Android 仿小红书图片标签，实现了图片标签的动画，布局，水波纹，编辑等功能，还可以自定义 Tag。         
+[https://github.com/shellljx/TagViewGroup](https://github.com/shellljx/TagViewGroup)
+1. **EasyFlipView** A quick and easy flip view through which you can create views with two sides like credit cards, poker cards etc.          
+[https://github.com/wajahatkarim3/EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView)
+1. **Thermometer** Android Thermometer Widget.       
+[https://github.com/kofigyan/Thermometer](https://github.com/kofigyan/Thermometer)
+1. **RMSwitch**  A simple and customizable two or three states Switch View         
+[https://github.com/RiccardoMoro/RMSwitch](https://github.com/RiccardoMoro/RMSwitch)
+1. **Audiogram** Lightweight audio wave component        
+[https://github.com/alxrm/Audiogram](https://github.com/alxrm/Audiogram)
+1. **TumblrLikeAnimView**  仿Tumblr点赞动画效果        
+[https://github.com/alex5241/TumblrLikeAnimView](https://github.com/alex5241/TumblrLikeAnimView)
 1. **MaterialScrollBar**  An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices.        
 [https://github.com/krimin-killr21/MaterialScrollBar](https://github.com/krimin-killr21/MaterialScrollBar)
 1. **ScratchView**  ScratchView repo is UX Design involving scratch cards like views which are scratched to reveal the information they conceal.         
@@ -1386,3 +1557,89 @@ And this project is not using the image file!
 [https://github.com/barryhappy/TEmptyView](https://github.com/barryhappy/TEmptyView)
 1. **Popview-Android** Pop animation with circular dust effect for any view updation         
 [https://github.com/krishnarb3/Popview-Android](https://github.com/krishnarb3/Popview-Android)
+1. **PaperShredder** a PaperShredder view for android         
+[https://github.com/ldoublem/PaperShredder](https://github.com/ldoublem/PaperShredder)
+1. **Blur** 高斯模糊库，四种模糊方式      
+[https://github.com/robinxdroid/Blur](https://github.com/robinxdroid/Blur)
+1. **SpeedView**  Dynamic Speedometer UI for Android :zap:
+[https://github.com/anastr/SpeedView](https://github.com/anastr/SpeedView)
+1. **TargetView**  Animation View to Highlight particular Views :dart:
+[https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
+1. **FogView_Library**  FogView is a android library that can show fog on any layout and the fog removes when user rubs it.            
+[https://github.com/dynamitechetan/FogView_Library](https://github.com/dynamitechetan/FogView_Library)
+1. **MaterialTapTargetPrompt**  Material Design tap target for Android.           
+[https://github.com/sjwall/MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt)  
+1. **BlurredView**  Dynamic blur of image views for Android        
+[https://github.com/wl9739/BlurredView](https://github.com/wl9739/BlurredView)
+1. **codeview-android**  Show code content with syntax highlighting in native way.         
+[https://github.com/Softwee/codeview-android](https://github.com/Softwee/codeview-android)
+1. **TutoShowcase**    A simple and Elegant Showcase view for Android           
+[https://github.com/florent37/TutoShowcase](https://github.com/florent37/TutoShowcase)
+1. **TapTargetView**  An implementation of tap targets from the Material Design guidelines for feature discovery               
+[https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
+1. **WaveSideBar**  You can use WaveSideBar in the contacts page of your application.          
+[https://github.com/gjiazhe/WaveSideBar](https://github.com/gjiazhe/WaveSideBar)
+1. **FlipShare**  It's a cool way to show share widget.                   
+[https://github.com/JeasonWong/FlipShare](https://github.com/JeasonWong/FlipShare)
+1. **ScratchView**    This is a android custom view , like a scratch card effect!              
+[https://github.com/D-clock/ScratchView](https://github.com/D-clock/ScratchView)
+1. **CreditSesameRingView**  Imitation of Ali credit sesame new old ring view.http://www.jianshu.com/p/8486a5baa708               
+[https://github.com/HotBitmapGG/CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView)
+1. **FiftyShadesOf**  An elegant context-care loading placeholder for Android       
+[https://github.com/florent37/FiftyShadesOf](https://github.com/florent37/FiftyShadesOf)
+1. **PlaceHolderView** A wrapper for android recyclerview and contains stacked view            
+[https://github.com/janishar/PlaceHolderView](https://github.com/janishar/PlaceHolderView)
+1. **FreshDownloadView** FreshDownloadView is a java library for Android，It's a good way to show download progress with a cool animtion.some inspiration are from Dribbble            
+[https://github.com/dudu90/FreshDownloadView](https://github.com/dudu90/FreshDownloadView)
+1. **MultiStateView** Android View that displays different content based on its state        
+[https://github.com/Kennyc1012/MultiStateView](https://github.com/Kennyc1012/MultiStateView)
+1. **RealtimeBlurView**     It's just a realtime blurring overlay like iOS UIVisualEffectView.
+[https://github.com/mmin18/RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView)
+1. **SnowingView** 一个看起来还不错的下雪动画。    
+[https://github.com/HelloVass/SnowingView](https://github.com/HelloVass/SnowingView)
+1. **DotMatrixView** An Android custom view to display digits rendered as dots in a grid, with a style like a 1970s LED clock.              
+[https://github.com/EscapeIndustries/DotMatrixView](https://github.com/EscapeIndustries/DotMatrixView)
+1. **ZGDanmaku** android danmaku/danmu/tanmu implemented/renderered by opengl/opengles 2.0        
+[https://github.com/zhgeaits/ZGDanmaku](https://github.com/zhgeaits/ZGDanmaku)
+1. **RadarChart** 一个可以自由定制、旋转交互的Android雷达图Lib         
+[https://github.com/qstumn/RadarChart](https://github.com/qstumn/RadarChart)
+1. **FloatingView**  FloatingView can make the target view floating above the anchor view with cool animation             
+[https://github.com/UFreedom/FloatingView](https://github.com/UFreedom/FloatingView)
+1. **Android-PickerView**  仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果       
+[https://github.com/saiwu-bigkoo/Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)
+1. **ENViews**  A cool dynamic view library      
+[https://github.com/codeestX/ENViews](https://github.com/codeestX/ENViews)
+1. **Android-3DTouch-PeekView** Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android.                      
+[https://github.com/klinker24/Android-3DTouch-PeekView](https://github.com/klinker24/Android-3DTouch-PeekView)
+1. **DrawView** Android view that allows the user to create drawings. Customize settings like color, width or tools. Undo or redo actions.           
+[https://github.com/ByoxCode/DrawView](https://github.com/ByoxCode/DrawView)
+1. **segmentedview** ios风格的分段控件，类似 UISegmentedControl     
+[https://github.com/czy1121/segmentedview](https://github.com/czy1121/segmentedview)
+1. **WheelPicker** Simple and fantastic wheel view in realistic effect for android.        
+[https://github.com/AigeStudio/WheelPicker](https://github.com/AigeStudio/WheelPicker)
+1. **DragScaleCircleView** a custom view that provides dragged and scaled      
+[https://github.com/hpfs0/DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView)
+1. **EmojiRain**  Implement a simple and funny Android animation —— the emoji rain in WeChat app.         
+[https://github.com/Luolc/EmojiRain](https://github.com/Luolc/EmojiRain)
+1. **WindView** WindView is an Android Library to show Weather's Wind & pressure Status     
+[https://github.com/AhmadNemati/WindView](https://github.com/AhmadNemati/WindView)
+1. **TapTargetView** An implementation of tap targets from the Material Design guidelines for feature discovery                  
+[https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
+1. **FreeDrawView** A View on which you can freely draw, customizing paint width, alpha and color, and take a screenshot of the content. Useful for note apps, signatures or free hand writing.             
+[https://github.com/RiccardoMoro/FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)
+1. **android-snowfall** Fully customizable implementation of "Snowfall View" on Android.                  
+[https://github.com/JetradarMobile/android-snowfall](https://github.com/JetradarMobile/android-snowfall)
+1. **PathAnimView** 用于做Path动画的自定义View。           
+[https://github.com/mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView)
+1. **TimelineView**  Customzable TimelineView for Android      
+[https://github.com/qapqap/TimelineView](https://github.com/qapqap/TimelineView)
+1. **SuperIndicator**  a superindicatorlibray for viewpager, banner  仿爱奇艺视频，腾讯视频，搜狐视频首页推荐位轮播图        
+[https://github.com/hejunlin2013/SuperIndicator](https://github.com/hejunlin2013/SuperIndicator)
+1. **QingtingBannerView** 仿蜻蜓FM轮播banner       
+[https://github.com/JeasonWong/QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
+1. **ChatMessageView** Chat UI library for Android               
+[https://github.com/bassaer/ChatMessageView](https://github.com/bassaer/ChatMessageView)
+1. **Dali**  An image blur library for Android. It contains several modules for static blurring, live blurring and animations.               
+[https://github.com/patrickfav/Dali](https://github.com/patrickfav/Dali)
+1. **cameraview**  CameraView aims to help Android developers easily integrate Camera features.     
+[https://github.com/google/cameraview](https://github.com/google/cameraview)

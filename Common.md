@@ -73,7 +73,14 @@
 [https://bitbucket.org/qbusict/cupboard](https://bitbucket.org/qbusict/cupboard)
 1. **SquiDB** is a simple SQLite database layer for Android    
 [https://github.com/yahoo/squidb](https://github.com/yahoo/squidb)
-
+1. **Android-Orma** A lightning-fast ORM for Android as a wrapper of SQLiteDatabase http://gfx.github.io/Android-Orma
+[https://github.com/gfx/Android-Orma](https://github.com/gfx/Android-Orma) 
+1. **RushOrm**       Object-relational mapping for Android http://www.rushorm.com/
+[https://github.com/Stuart-campbell/RushOrm](https://github.com/Stuart-campbell/RushOrm)
+1. **DBFlow** A blazing fast, powerful, and very simple ORM android database library that writes database code for you.           
+[https://github.com/Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow) 
+ 
+ 
 
 ### <a name="Image_Loading" id="Image_Loading"></a>Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.    
@@ -101,6 +108,11 @@
 [https://github.com/amitshekhariitbhu/GlideBitmapPool](https://github.com/amitshekhariitbhu/GlideBitmapPool)
 1. **Compressor**   Compressor is a lightweight and powerful android image compression library, also support RxJava.
 [https://github.com/zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
+1. **Luban**  Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法          
+[https://github.com/Curzibn/Luban](https://github.com/Curzibn/Luban)
+
+
+
 
 
 ### <a name="Animations" id="Animations"></a>Animations
@@ -200,11 +212,34 @@
 [https://github.com/MasayukiSuda/FPSAnimator](https://github.com/MasayukiSuda/FPSAnimator)
 1. **EasingInterpolator**  Twenty-eight different easing animation interpolators for Android.    
 [https://github.com/MasayukiSuda/EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator)
+1. **TargetView**  Animation View to Highlight particular Views for Android.    
+[https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
+1. **CannyViewAnimator**  CannyViewAnimator is an enhanced version of ViewAnimator. It allows to use Animators and Transitions to extend Visibility.                
+[https://github.com/LiveTyping/CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)
+1. **MaterialImageLoading**  Material image loading implementation           
+[https://github.com/florent37/MaterialImageLoading](https://github.com/florent37/MaterialImageLoading)
+1. **android-TNRAnimationHelper** This is a library that contains practical animations: Rotation, Flip, Horizontal and Vertical Shake, Pulse. http://thunderrise.com/           
+[https://github.com/thunderrise/android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)
+1. **TransitionHelper**  This is a simple util to create Activity transition animation.   API compatible with Android 2.2+                 
+[https://github.com/ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper)
+1. **ViewAnimator**  A fluent Android animation library                   
+[https://github.com/florent37/ViewAnimator](https://github.com/florent37/ViewAnimator)
+1. **android-PageFlip** This project is aimed to implement 3D style page flip on Android system based on OpenGL 2.0.      
+[https://github.com/eschao/android-PageFlip](https://github.com/eschao/android-PageFlip)
+1. **CircularAnim** Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)            
+[https://github.com/XunMengWinter/CircularAnim](https://github.com/XunMengWinter/CircularAnim)
+1. **Particle**  It's a cool animation which can use in splash or somewhere else.            
+[https://github.com/JeasonWong/Particle](https://github.com/JeasonWong/Particle)
+1. **RxAnimations** Repository for android animations Rx wrapper            
+[https://github.com/0ximDigital/RxAnimations](https://github.com/0ximDigital/RxAnimations)
+1. **android-slidingactivity**  Android library which allows you to swipe down from an activity to close it.            
+[https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
+1. **ActSwitchAnimTool** ActSwitchAnimTool make the Animation easy to implements, and it compat the version of Android 4.0 or above.     
+[https://github.com/Yellow5A5/ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool)
+1. **AnimatedRecordingView**  Android animated recording view     
+[https://github.com/HeZaiJin/AnimatedRecordingView](https://github.com/HeZaiJin/AnimatedRecordingView)
 
-
-
-
-
+  
 
 ### <a name="Network" id="Network"></a>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
@@ -219,6 +254,8 @@
 [https://github.com/AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client)
 1. **http-request**    Java HTTP Request Library    
 [https://github.com/kevinsawicki/http-request](https://github.com/kevinsawicki/http-request)
+1. **android-upload-service**    Easily upload files (FTP / Multipart / Binary) in the background with progress indication notification. Supports OkHttp and Hurl stack. Can be extended with custom network layers and custom upload types    
+[https://github.com/gotev/android-upload-service](https://github.com/gotev/android-upload-service)
 1. **node-android**    Run Node.js on Android    
 [https://github.com/InstantWebP2P/node-android](https://github.com/InstantWebP2P/node-android)
 1. **android-lite-http** Arrow(LiteHttp) is a simple, intelligent and flexible HTTP client for Android.    
@@ -239,7 +276,8 @@
 [https://github.com/amitshekhariitbhu/AndroidNetworking](https://github.com/amitshekhariitbhu/AndroidNetworking)
 1. **HttpAgent** A perfectically simple library to manage http requests.            
 [https://github.com/studioidan/HttpAgent](https://github.com/studioidan/HttpAgent)
-
+1. **okhttp-json-mock** Mock your datas for Okhttp and Retrofit in json format in just a few moves.            
+[https://github.com/mirrajabi/okhttp-json-mock](https://github.com/mirrajabi/okhttp-json-mock)
 
 
 ### <a name="Task/Job" id="Task/Job"></a>Task/Job

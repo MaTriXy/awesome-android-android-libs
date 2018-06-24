@@ -1,6 +1,12 @@
 # awesome-android
 [![Build Status](https://travis-ci.org/snowdream/awesome-android.svg?branch=master)](https://travis-ci.org/snowdream/awesome-android)
 
+ *This is NOT BEING MAINTAINED*.
+ 
+ check https://github.com/JStumpp/awesome-android 
+ 
+ or https://github.com/blog/2309-introducing-topics instead.
+ 
 ## Introduction
 android libs from github or other websites 
 
@@ -23,10 +29,15 @@ Step 1. Add a Item as follows:
 
 Step 2. The item should fall under the appropriate category.
 
+awesome-android 开发维护指南 https://github.com/snowdream/awesome-android/wiki
 
 ### Contacts
 * Email：yanghui1986527#gmail.com
-* QQ Group: 529327615      
+* QQ Group: 529327615     
+* WeChat:  sn0wdr1am      
+
+![sn0wdr1am](https://static.dingtalk.com/media/lADOmAwFCs0BAs0BAg_258_258.jpg)
+
 **Welcome to talk about Android.**
 
 ### Donate

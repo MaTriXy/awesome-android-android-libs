@@ -22,6 +22,8 @@
 [https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
 1. **LiteAuto** lite your android ! the code is on the way~ http://lihttp//litesuits.com?from=auto              
 [https://github.com/litesuits/android-lite-auto](https://github.com/litesuits/android-lite-auto)
+1. **fragmentargs**  Annotation Processor for setting arguments in android fragments http://hannesdorfmann.com/android/fragmentargs/         
+[https://github.com/sockeqwe/fragmentargs](https://github.com/sockeqwe/fragmentargs)
 
 
 ### <a name="Template" id="Template"></a>Template
@@ -29,7 +31,8 @@
 [https://github.com/kanytu/android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template)
 1. **material-design-icons-adt-template**  Android Studio / Eclipse ADT template for material-design-icons resources    
 [https://github.com/intrications/material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template)
-
+1. **OnActivityResult**    Generates boilerplate code for OnActivityResult callbacks and lets you focus on what matters     
+[https://github.com/vanniktech/OnActivityResult](https://github.com/vanniktech/OnActivityResult)
 
 
 
@@ -97,7 +100,8 @@
 [https://github.com/google/liquidfun](https://github.com/google/liquidfun)
 1. **jbox2d**  a 2d Java physics engine, native port of the C++ physics engines Box2D and LiquidFun    
 [https://github.com/jbox2d/jbox2d](https://github.com/jbox2d/jbox2d)
-
+1. **JustWeEngine**  An easy open source Android Native Game FrameWork.
+[https://github.com/lfkdsk/JustWeEngine](https://github.com/lfkdsk/JustWeEngine)
 
 
 
@@ -110,6 +114,8 @@
 [https://github.com/palaima/AndroidSmoothBluetooth](https://github.com/palaima/AndroidSmoothBluetooth)
 1. **LiteBle**  BLE Framework. Based on Bluetooth 4.0. Based on callback. Extremely simple! Communication with BluetoothLE(BLE) device as easy as HTTP communication. Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交互就像发送网络请求一样简单。 http://litesuits.com?form=gble           
 [https://github.com/litesuits/android-lite-bluetoothLE](https://github.com/litesuits/android-lite-bluetoothLE)
+1. **BluetoothHelper**  Bluetooth Helper Library.—-蓝牙操作库                
+[https://github.com/a-voyager/BluetoothHelper](https://github.com/a-voyager/BluetoothHelper)
 
 
 ### <a name="SocialNetworks" id="SocialNetworks"></a>SocialNetworks
@@ -158,6 +164,8 @@
 
 
 ### <a name="Media" id="Media"></a>Media
+1. **AndroidVideoCache** Cache support for any video player with help of single line
+[https://github.com/danikula/AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
 1. **FFmpeg** mirror of git://source.ffmpeg.org/ffmpeg.git    
 [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
 1. **FFMpeg** this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)    
@@ -180,6 +188,8 @@
 [https://github.com/jcodec/jcodec](https://github.com/jcodec/jcodec)
 1. **ipcam-view** MJPEG video streaming on Android    
 [https://github.com/niqdev/ipcam-view](https://github.com/niqdev/ipcam-view)
+1. **AndroidAudioConverter** Convert audio files inside your Android app easily. This is a wrapper of FFmpeg-Android-Java lib.        
+[https://github.com/adrielcafe/AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter)
 
 
 
@@ -189,6 +199,10 @@
 
 
 ### <a name="Utility" id="Utility"></a>Utility
+1. **StatusBarUtil** StatusBarUtil 状态栏工具类（实现沉浸式状态栏/变色状态栏）                
+[https://github.com/laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)
+1. **LowPoly**  LowPoly is implemented by JNI, so it's much faster than other in java.                 
+[https://github.com/CoXier/LowPoly](https://github.com/CoXier/LowPoly)
 1. **easydeviceinfo**  Android library to get device information in a super easy way. http://nisrulz.github.io/easydeviceinfo                
 [https://github.com/nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
 1. **StatusBarUtil** A util for setting status bar style on Android App. It can work above API 19(KitKat 4.4).    
@@ -337,14 +351,14 @@
 [https://github.com/microsoft/thrifty](https://github.com/microsoft/thrifty)
 1. **Android-ConfigIO**   A library for creating, accessing, and modifying configuration file with Xml / Json format.    
 [https://github.com/tzutalin/Android-ConfigIO](https://github.com/tzutalin/Android-ConfigIO)
-
-
-
-
+1. **PrivacyStreams** Access and process various types of personal data in Android with an easy, uniform, and privacy-friendly API.
+[https://github.com/PrivacyStreams/PrivacyStreams](https://github.com/PrivacyStreams/PrivacyStreams)
 
 ### <a name="Storage" id="Storage"></a>Storage
 1. **RealStoragePathLibrary**   RealStoragePathLibrary is an open source library with very minimal footprint which helps to find the real paths of the storage devices attached to the Android device.    
 [https://github.com/SanDisk-Open-Source/RealStoragePathLibrary](https://github.com/SanDisk-Open-Source/RealStoragePathLibrary)
+1. **KotlinPreferences** Kotlin Android Library, that makes preference usage simple and fun.                
+[https://github.com/MarcinMoskala/KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences)
 
 
 ### <a name="SDK" id="SDK"></a>SDK
@@ -402,6 +416,8 @@
 [https://github.com/pengjianbo/GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
 1. **cloudrail-si-android-sdk**  Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs. Included services are Dropbox, Google Drive, OneDrive, Box, Facebook, GitHub, Google+, LinkedIn, Slack, Twitter, Windows Live, Yahoo, PayPal, Stripe, Mailjet, Sendgrid, Twilio, Nexmo, Google Places, Foursquare, Yelp. https://cloudrail.com                
 [https://github.com/CloudRail/cloudrail-si-android-sdk/](https://github.com/CloudRail/cloudrail-si-android-sdk/)
+1. **Qiscus SDK** A lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.    
+[https://github.com/qiscus/qiscus-sdk-android](https://github.com/qiscus/qiscus-sdk-android)
 
 
 ### <a name="Test" id="Test"></a>Test
@@ -425,9 +441,13 @@
 [https://github.com/xtremelabs/robolectric](https://github.com/xtremelabs/robolectric)
 1. **powermock**  PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.    
 [https://github.com/jayway/powermock](https://github.com/jayway/powermock)
+1. **Green Coffee** Run your Cucumber tests in your Android instrumentation tests.    
+[https://github.com/mauriciotogneri/green-coffee](https://github.com/mauriciotogneri/green-coffee)
 
 
 ### <a name="Chart" id="Chart"></a>Chart
+1. **Jgraph**  图表控件         
+[https://github.com/mychoices/Jgraph](https://github.com/mychoices/Jgraph)
 1. **GraphView** Android Graph Library for creating zoomable and scrollable line and bar graphs.    
 [https://github.com/jjoe64/GraphView](https://github.com/jjoe64/GraphView)
 1. **achartengine** This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.    
@@ -489,7 +509,10 @@
 [https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
 1. **fontbinding**  Easy custom fonts in XML using data binding.    
 [https://github.com/lisawray/fontbinding](https://github.com/lisawray/fontbinding)
-
+1. **DroidAwesome**  An android library to display FontAwesome Icons in any View or a MenuItem.    
+[https://github.com/Livin21/DroidAwesome](https://github.com/Livin21/DroidAwesome)
+1. **FontometricsLibrary** Android Library to use custom fonts with ease.             
+[https://github.com/Ishmeetsingh97/FontometricsLibrary](https://github.com/Ishmeetsingh97/FontometricsLibrary)
 
 
 ### <a name="OpenGL" id="OpenGL"></a>OpenGL
@@ -501,8 +524,16 @@
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 1. **Goreinu** Goreinu allows to copy application files on sdcard.      
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
+1. **Android Debug Database** It's is a powerful library for debugging databases and shared preferences in Android applications.
+[https://github.com/amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+1. **Under the Hood** A flexible and powerful Android debug view library. It uses a modular template system that can be easily extended    
+[https://github.com/patrickfav/under-the-hood](https://github.com/patrickfav/under-the-hood)
+1. **Uber-Adb-Tools** A tool that enables advanced features through adb installing and uninstalling apps like wildcards and multi device support.     
+[https://github.com/patrickfav/uber-adb-tools](https://github.com/patrickfav/uber-adb-tools)
 
 ### <a name="Demo" id="Demo"></a>Demo
+1. **android-animated-menu-items** The example Android project of animated menu items in toolbar        
+[https://github.com/adonixis/android-animated-menu-items](https://github.com/adonixis/android-animated-menu-items)
 1. **Android-AOPExample** This is a simple example of Aspect Oriented Programming in Android              
 [https://github.com/android10/Android-AOPExample](https://github.com/android10/Android-AOPExample)
 1. **AndroidStudyDemo**  AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。       
@@ -619,9 +650,25 @@
 [https://github.com/chenyangcun/MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample)
 1. **MaterialPowerMenu**   A demo of the power menu with Reveal and other animations    
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
+1. **UI-Motion** How to apply meaningful and delightful motion in a sample Android app.    
+[https://github.com/andremion/UI-Motion](https://github.com/andremion/UI-Motion)
+1. **MaterialLogin** Amazing Material Login effect       
+[https://github.com/fanrunqi/MaterialLogin](https://github.com/fanrunqi/MaterialLogin)
+1. **AndroidShortcuts** Example app for shortcuts in design library v25           
+[https://github.com/pcevikogullari/AndroidShortcuts](https://github.com/pcevikogullari/AndroidShortcuts)
 
 
 ### <a name="App" id="App"></a>App
+1. **MusicStreamer**  A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.                     
+[https://github.com/harjot-oberai/MusicStreamer](https://github.com/harjot-oberai/MusicStreamer)
+1. **remusic** 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载                          
+[https://github.com/aa112901/remusic](https://github.com/aa112901/remusic)
+1. **Ghost** 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide         
+[https://github.com/GeekGhost/Ghost](https://github.com/GeekGhost/Ghost)
+1. **banya**  An open resource for Douban API with NETEASY Music's UI.        
+[https://github.com/forezp/banya](https://github.com/forezp/banya)
+1. **BookReader**  任阅小说阅读器。实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能。             
+[https://github.com/JustWayward/BookReader](https://github.com/JustWayward/BookReader)
 1. **bookdash-android-app**  Book Dash is an Android App for the NPO where you can download books in different languages for free.      
 [https://github.com/bookdash/bookdash-android-app](https://github.com/bookdash/bookdash-android-app)
 1. **Bourbon**  An MVP Dribbble client for Android Mobile, Tablet, Wear and TV.         
@@ -766,7 +813,16 @@
 [https://github.com/HeinrichReimer/material-intro](https://github.com/HeinrichReimer/material-intro)
 1. **MarkdownEditors**  Android Markdown编辑器        
 [https://github.com/qinci/MarkdownEditors](https://github.com/qinci/MarkdownEditors)
-
+1. **Android-SecretCodes** Secret Codes is an Open Source application that allows you to browse through hidden codes of your Android phone. http://simonmarquis.github.io/Android-SecretCodes/     
+[https://github.com/SimonMarquis/Android-SecretCodes](https://github.com/SimonMarquis/Android-SecretCodes)
+1. **Music-Player** From UI Proposal to Code    
+[https://github.com/andremion/Music-Player](https://github.com/andremion/Music-Player)
+1. **Villains-and-Heroes** Android app built with MVP architectural approach and uses Marvel Comics API that allows developers everywhere to access information about Marvel's vast library of comics    
+[https://github.com/andremion/Villains-and-Heroes](https://github.com/andremion/Villains-and-Heroes)
+1. **likequanmintv** 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV,属于独立开发者作品,仅供参考学习，拒绝做一切商业用途，如有侵权，请告知删除。
+[https://github.com/a371166028/likequanmintv](https://github.com/a371166028/likequanmintv)
+1. **JianDou**  豆瓣Material design风格的客户端
+[https://github.com/ChinaLHR/JianDou](https://github.com/ChinaLHR/JianDou)
 
 
 ### <a name="Security" id="Security"></a>Security
@@ -780,12 +836,23 @@
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 1. **tweetnacl-java**    This is TweetNacl security library written in Java for Android.    
 [https://github.com/InstantWebP2P/tweetnacl-java](https://github.com/InstantWebP2P/tweetnacl-java)
-
-
+1. **AESCrypt-Android**   Simple API to perform AES encryption on Android. This is the Android counterpart to the AESCrypt library Ruby and Obj-C (with the same less than ideal security defaults) created by Gurpartap Singh. https://github.com/Gurpartap/aescrypt      
+[https://github.com/scottyab/AESCrypt-Android](https://github.com/scottyab/AESCrypt-Android)
+1. **FolioReader-Android**  A Java ePub reader and parser framework for Android.      
+[https://github.com/FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android)
 
 
 
 ### <a name="Tools" id="Tools"></a>Tools
+1. **debug-bottle** 🍼Debug Bottle is an Android runtime debug / develop tools written using kotlin language. http://dev.exyui.com/debug-bottle/           
+[https://github.com/kiruto/debug-bottle](https://github.com/kiruto/debug-bottle)
+
+1. **WIFIADB** Connect adb from devices to androidstudio by wifi without usb anymore          
+[https://github.com/Sausure/WIFIADB](https://github.com/Sausure/WIFIADB)
+1. **AndroidHttpCapture** AndroidHttpCapture网络诊断工具               
+[https://github.com/JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)
+1. **super-adb** 用busybox加持的功能更加强大的adb shell；不需要root。             
+[https://github.com/tiann/super-adb](https://github.com/tiann/super-adb)
 1. **density-converter**  This is a simple tool that helps converting single or batches of images to Android, iOS and Windows specific formats and density versions given the source scale factor or width in dp. It has a graphical and command line interface and supports many image types (svg,psd,etc.)              
 [https://github.com/patrickfav/density-converter](https://github.com/patrickfav/density-converter)
 1. **ViewInspector**  View Inspection Toolbar for Android Development    
@@ -861,7 +928,12 @@
 [https://github.com/Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 1. **Android-Link-Preview**   It makes a preview from an url, grabbing all the information such as title, relevant texts and images.    
 [https://github.com/LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview)
-
+1. **SwissArmyKnife** android免root兼容所有版本ui调试工具       
+[https://github.com/android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
+1. **gifcap** Make a GIF from your Android device's screen    
+[https://github.com/outlook/gifcap](https://github.com/outlook/gifcap)
+1. **Fakeit** It generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment
+[https://github.com/moove-it/fakeit](https://github.com/moove-it/fakeit)
 
 
 
@@ -899,9 +971,7 @@
 
 
 ### <a name="Other1" id="Other1"></a>Other
-1. **AndroidVideoCache** Cache support for any video player with help of single line         
-[https://github.com/danikula/AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
-1. **FileDownloader**  Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process    
+1. **FileDownloader**  Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process
 [https://github.com/lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader)
 1. **PasswordLoadingView** Provide an animation when finished the password    
 [https://github.com/Rogero0o/PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView)
@@ -945,9 +1015,14 @@
 [https://github.com/rmtheis/android-ocr](https://github.com/rmtheis/android-ocr)
 1. **MasteringAndroidDataBinding**  A comprehensive tutorial for Android Data Binding    
 [https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
-
+1. **FingerprintAuthHelper**  A small library that allows You to easily manage fingererprint authentication inside your Activity or Fragment on devices with fingerprint scanner and Android M and higher. Min sdk 14                    
+[https://github.com/pro100svitlo/FingerprintAuthHelper](https://github.com/pro100svitlo/FingerprintAuthHelper)
 
 ### <a name="Books" id="Books"></a>Books
+1. **awesome-adb**  ADB Usage Complete / ADB 用法大全            
+[https://github.com/mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb)
+1. **AndroidShell (Mac Os Commands)** Android Developers are used to use an amount of shell commands in their everyday work, so I'm gonna recopilate some good shell commands to make search easier       
+[https://github.com/cesards/AndroidShell](https://github.com/cesards/AndroidShell)
 1. **RxJava Essentials 中文翻译版**   RxJava Essentials 中文翻译版 仅供交流学习使用，严禁商业用途 http://rxjava.yuxingxin.com    
 [https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
 1. **android_guides**  Extensive Open-Source Guides for Android Developers http://guides.codepath.com           
@@ -959,3 +1034,13 @@
 [https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 1. **ForAndroidInterview**  android interview experience and question in (android、java、data structure、tcp/ip、os)          
 [https://github.com/Mr-YangCheng/ForAndroidInterview](https://github.com/Mr-YangCheng/ForAndroidInterview)
+1. **android_design_patterns_analysis**  Android源码设计模式分析项目        
+[https://github.com/simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)
+1. **Android-Session-Slides**  Here are the slides in MDCC 2016 Android Session.       
+[https://github.com/MDCC2016/Android-Session-Slides](https://github.com/MDCC2016/Android-Session-Slides)
+1. **from-java-to-kotlin**  From Java to Kotlin                   
+[https://fabiomsr.github.io/from-java-to-kotlin/](https://fabiomsr.github.io/from-java-to-kotlin/)
+1. **DylanStepCount** Android精准计步器 http://blog.csdn.net/linglongxin24/article/details/52868803         
+[https://github.com/linglongxin24/DylanStepCount](https://github.com/linglongxin24/DylanStepCount)
+1. **hawk** Secure, simple key-value storage for Android              
+[https://github.com/orhanobut/hawk](https://github.com/orhanobut/hawk)

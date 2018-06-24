@@ -50,6 +50,8 @@
 [https://github.com/bluelinelabs/Conductor](https://github.com/bluelinelabs/Conductor)
 1. **Android-ZBLibrary**  Android快速开发框架，Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。      
 [https://github.com/TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)
+1. **Conductor**  A small, yet full-featured framework that allows building View-based Android applications         
+[https://github.com/bluelinelabs/Conductor](https://github.com/bluelinelabs/Conductor)
 
 #### <a name="Framework_Plugin" id="Framework_Plugin"></a>Plugin
 1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。    
@@ -78,13 +80,19 @@
 [https://github.com/Arello-Mobile/Moxy](https://github.com/Arello-Mobile/Moxy)
 1. **Mosby**  A Model-View-Presenter library for modern Android apps.    
 [https://github.com/sockeqwe/mosby](https://github.com/sockeqwe/mosby)
-
+1. **Archi**  This repository showcases and compares different architectural patterns that can be used to build Android apps.           
+[https://github.com/ivacf/archi](https://github.com/ivacf/archi)
+1. **EasyMVP** A full-featured framework that allows building android applications following the principles of Clean Architecture.    
+[https://github.com/6thsolution/EasyMVP](https://github.com/6thsolution/EasyMVP)
 
 #### <a name="Framework_Theme" id="Framework_Theme"></a>Theme
 1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.    
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 1. **MagicaSakura**  MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme. http://app.bilibili.com           
 [https://github.com/Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)  
+1. **Colorful** Colorful is a dynamic theme library allowing you to change your apps' color schemes easily.              
+[https://github.com/garretyoder/Colorful](https://github.com/garretyoder/Colorful)
+
 
 
 #### <a name="Framework_Hook" id="Framework_Hook"></a>Hook
@@ -94,3 +102,21 @@
 [https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
 1. **Xposed** The native part of the Xposed framework (mainly the modified app_process binary).    
 [https://github.com/rovo89/Xposed](https://github.com/rovo89/Xposed)
+
+#### <a name="Framework_HotFix" id="Framework_HotFix"></a>HotFix
+1. **tinker**  Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.     
+[https://github.com/Tencent/tinker](https://github.com/Tencent/tinker)
+1. **Amigo**  A hotfix library for Android platform, and not just this...           
+[https://github.com/eleme/Amigo](https://github.com/eleme/Amigo)
+1. **AndFix**  AndFix is a library that offer hot-fix for Android App.          
+[https://github.com/alibaba/AndFix](https://github.com/alibaba/AndFix)
+1. **DroidFix**   AndroidHotFix/Android 代码热修复 http://bunnyblue.github.io/DroidFix        
+[https://github.com/bunnyblue/DroidFix](https://github.com/bunnyblue/DroidFix)
+1. **HotFix**  安卓App热补丁动态修复框架          
+[https://github.com/dodola/HotFix](https://github.com/dodola/HotFix)
+1. **Nuwa**  Nuwa, pure java implementation, can hotfix your android application.               
+[https://github.com/jasonross/Nuwa](https://github.com/jasonross/Nuwa)
+1. **dexposed** dexposed enable 'god' mode for single android application.    
+[https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
+1. **xLua** xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.                    
+[https://github.com/Tencent/xLua](https://github.com/Tencent/xLua)
